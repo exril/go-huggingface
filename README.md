@@ -4,7 +4,7 @@
 
 ## Installation
 ```
-go get github.com/hupe1980/go-huggingface
+go get github.com/extractings/go-huggingface
 ```
 
 ## How to use
